@@ -22,3 +22,6 @@
 Вид ввода данных Tkinter.
 ![](tkinter.jpg)
 
+База данных:
+![](SQLite3.jpg)
+
